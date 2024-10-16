@@ -7,6 +7,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 currently exploring various fields of Computer Science
-- 🌱 learning Web Development.
+- 🌱 learning Web Dev & DSA
 - 📫 How to reach me: [twitterX](https://x.com/SamiulHome)   [linkedin](https://www.linkedin.com/in/samiul-ahmed-1633ba299/)
 
